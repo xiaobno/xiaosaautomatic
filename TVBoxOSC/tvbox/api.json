@@ -11,6 +11,13 @@
             "searchable": 0
         },
         {
+            "key": "Nostr测试",
+            "name": "测试",
+            "type": 3,
+            "api": "csp_Nostr",
+            "homePage": "https://www.252035.xyz/xs/tvbox/test.html"
+        },
+        {
             "key": "配置中心",
             "name": "配置｜中心",
             "type": 3,
